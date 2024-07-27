@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/aranzadata/aranzadata/banner.jpg" />
+  <img decoding="async" src="banner.jpg" />
 </div>
 
   # 💫 Acerca de mí:
