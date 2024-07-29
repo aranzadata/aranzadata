@@ -1,8 +1,9 @@
 <div id="header" align="center">
   <img decoding="async" src="banner.jpg" />
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aranzadata) 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aranzadata) 
 
   ## 💫 Acerca de mí:
 ¡Hola! Soy Aranza, física apasionada por la ciencia, matemáticas y programación. Mi formación científica, combinada con mi experiencia en la docencia, me ha brindado una sólida base técnica y una habilidad única para explicar conceptos complejos de manera clara y accesible.<br><br>En mi perfil de GitHub, encontrarás una variedad de proyectos que reflejan mi enfoque metódico y mi pasión por el aprendizaje continuo. <br><br>Estoy siempre en busca de oportunidades para colaborar en proyectos desafiantes y aportar mi experiencia a equipos multidisciplinarios. Si estás interesado en discutir ideas, proyectos o posibles colaboraciones, no dudes en contactarme.<br><br>¡Gracias por visitar mi perfil!
